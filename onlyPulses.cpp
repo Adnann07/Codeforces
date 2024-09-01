@@ -23,8 +23,9 @@ int main()
             {
                 c++;
             }
-            cout<<a*b*c<<endl;
         }
+                    cout<<a*b*c<<endl;
+
 
 
 
